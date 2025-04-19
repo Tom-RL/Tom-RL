@@ -1,5 +1,13 @@
 ## Eae, Bem Vindo! ✌️
 
+
+experience:
+
+c++
+html
+css
+javascript
+
 <!--
 **Tom-RL/Tom-RL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
