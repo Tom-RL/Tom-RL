@@ -16,7 +16,3 @@ I'm passionate about becoming a Developer, always learning and exploring new tec
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-pierre-386194278/)
-
----
-
-> Always coding, always curious!
