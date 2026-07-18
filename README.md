@@ -4,6 +4,7 @@ I'm passionate about becoming a Developer, always learning and exploring new tec
 
 ## 🛠️ Skills
 - C++
+- C#
 - JavaScript
 - JSON
 
